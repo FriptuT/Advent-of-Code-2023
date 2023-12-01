@@ -1,0 +1,7 @@
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\bin\Debug\puzzle1.exe.config
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\bin\Debug\puzzle1.exe
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\bin\Debug\puzzle1.pdb
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\obj\Debug\puzzle1.csproj.AssemblyReference.cache
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\obj\Debug\puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\obj\Debug\puzzle1.exe
+C:\Users\teodo\OneDrive\Desktop\AoC\puzzle1\obj\Debug\puzzle1.pdb
